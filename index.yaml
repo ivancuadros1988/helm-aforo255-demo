@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  microaforo255:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-01-09T17:48:54.4978812-05:00"
+    description: A Helm chart for Aforo255 Demo
+    digest: 006da0e1a42d2dbd2c27f54d3ceb0ce5aed9bb0ded04466186e69dd9ee49085d
+    name: microaforo255
+    type: application
+    urls:
+    - microaforo255-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-01-09T17:48:54.4973656-05:00"
